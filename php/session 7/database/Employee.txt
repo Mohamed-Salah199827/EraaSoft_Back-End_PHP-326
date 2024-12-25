@@ -1,0 +1,6 @@
+name: mohamed salah,email: m7mdslah45@gmail.com,salary: 2435,gender: male,password: 124135 
+name: mohamed salah,email: m7mdslah45@gmail.com,salary: 2435,gender: male,password: 124135 
+name: mohamed salah,email: m7mdslah45@gmail.com,salary: 2435,gender: male,password: 124135 
+name: mohamed salah,email: m7mdslah45@gmail.com,salary: 2435,gender: male,password: 124135 
+name: ahmed,email: ahed@gmail.com,salary: 124356675,gender: male,password: dsafdas 
+name: admin,email: ahmed@gmail.com,salary: 2342,gender: ,password:  

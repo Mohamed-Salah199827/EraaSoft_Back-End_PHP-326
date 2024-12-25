@@ -1,0 +1,45 @@
+{
+    "users": [{
+        "name": "mohamed salah",
+        "email": "m7mdslah45@gmail.com",
+        "salary": "2345",
+        "gender": "male",
+        "password": "21312321"
+    }, {
+        "name": "mohamed salah",
+        "email": "m7mdslah45@gmail.com",
+        "salary": "2345",
+        "gender": "male",
+        "password": "21312321"
+    }, {
+        "name": "mohamed salah",
+        "email": "m7mdslah45@gmail.com",
+        "salary": "2345",
+        "gender": "male",
+        "password": "21312321"
+    }, {
+        "name": "mohamed salah",
+        "email": "m7mdslah45@gmail.com",
+        "salary": "2345",
+        "gender": "male",
+        "password": "21312321"
+    }, {
+        "name": "mohamed salah",
+        "email": "m7mdslah45@gmail.com",
+        "salary": "2345",
+        "gender": "male",
+        "password": "21312321"
+    }, {
+        "name": "mohamed salah",
+        "email": "ahmed@gmail.com",
+        "salary": "43244",
+        "gender": "male",
+        "password": "423423"
+    }, {
+        "name": "mohamed salah",
+        "email": "ahmed@gmail.com",
+        "salary": "43244",
+        "gender": "male",
+        "password": "423423"
+    }]
+}
