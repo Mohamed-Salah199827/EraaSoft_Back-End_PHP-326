@@ -5,7 +5,7 @@ $salary=$_POST["salary"];
 $gender=$_POST["gender"];
 $password=$_POST["password"];
 
-if(isset($name)&&){
+if(isset($name)){
     
     $user=[
         "name"=>$name,
